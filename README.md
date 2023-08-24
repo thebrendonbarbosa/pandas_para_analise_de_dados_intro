@@ -1,2 +1,3 @@
-# pandas_para_analise_de_dados_intro
-introdução `a Análise de Dados utilizando a biblioteca Pandas do Python.
+# Pandas para Análise de Dados
+
+Compartilho aqui alguns conteúdos da minha jornada  buscando formatar um laboratório virtual para análise de dados utilizando a biblioteca Pandas do Python.
